@@ -1,2 +1,7 @@
-# dapp-surf-npm-assets-contract
-The contract that manages the npm module database and stores assets from npm
+# dapp.surf Blockchain Powered Web CDN
+## Popular NPM repositories hosted forever on the EOS blockchain
+
+### Documentation coming soon
+
+### Jungle Testnet Contract (Updated)
+[https://jungle3.bloks.io/account/npmtesting11](https://jungle3.bloks.io/account/npmtesting11)
